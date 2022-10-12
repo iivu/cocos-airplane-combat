@@ -43,7 +43,7 @@
       "uuid": "b3db2468-302b-4ebd-889e-56f093fbd990@c13c3",
       "displayName": "",
       "id": "c13c3",
-      "name": "plane01.prefab",
+      "name": "player.prefab",
       "userData": {
         "gltfIndex": 0
       },

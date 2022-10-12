@@ -8,7 +8,7 @@ export class MovingBackground extends Component {
   @property(Node)
   bg2: Node = null;
 
-  private _movingSpeed = 20;            // 背景移动速度
+  private _movingSpeed = 10;            // 背景移动速度
   private _movingMaxDistance = 100;     // 背景的最大移动距离
 
   private _movingBackground(deltaTime:number) {
